@@ -14,9 +14,9 @@
 
 ## 🛠️ Tech Stack  
 - **Languages I know so far:**  
-  - ☕ Java  
-  - 🐍 Python  
-  - 🐘 PHP  
+  - Java  
+  - Python  
+  - PHP  
 
 ---
 
