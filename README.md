@@ -6,7 +6,7 @@
 
 <br />
 <p>
-  Full-Stack Software Developer focused on building modern web applications with <b>TypeScript, React, Python, Flutter, and Django</b>. Driven by a passion for clean code, sleek user interfaces, and continuous learning. Always excited to collaborate on innovative projects and connect with fellow developers!
+  Full-Stack Software Developer focused on building modern web applications with <b>TypeScript, React, Python, and Django</b>. Driven by a passion for clean code, sleek user interfaces, and continuous learning. Always excited to collaborate on innovative projects and connect with fellow developers!
 </e>
 
 <br />
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,django,typescript,flutter" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,react,django,typescript" alt="My Skills" />
   </a>
 </p>
 
